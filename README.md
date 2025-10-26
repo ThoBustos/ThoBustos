@@ -13,7 +13,7 @@
 ## What I do
 
 - **Build AI-powered solutions** for Fortune 500 companies and startups
-- **Host "Let's Talk AI"** - 80+ episodes of unfiltered conversations with tech builders
+- **Host "Let's Talk AI"** - 90+ episodes of unfiltered conversations with tech builders
 - **Co-found Radiance** - Digital design agency + Creative OS backed by Infinity Constellation
 - **Create real value** with tech, data, and AI - not just demos
 
