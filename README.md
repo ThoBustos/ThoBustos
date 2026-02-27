@@ -62,6 +62,7 @@
 - Traction: A Startup Guide to Getting Customers – Gabriel Weinberg & Justin Mares
 - Principles – Ray Dalio
 - Sell More Faster: The Ultimate Sales Playbook for Startups – Amos Schwartzfarb
+- [Check my full collection of books](https://www.thomasbustos.com/library)
 
 ## Certifications
 
