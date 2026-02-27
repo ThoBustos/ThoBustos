@@ -2,7 +2,7 @@
 
 [![banner](./images/banner.png)](https://thomasbustos.substack.com/)
 
-**`Let's Talk AI Podcast | Head of Tech and Co-Founder @Radiance | Databricks Champion`**
+**`Cooking @Supernal | 2x Co-Founder | Let's Talk AI Podcast & AI Native Club`**
 
 <br/>
 
@@ -12,13 +12,14 @@
 
 ## What I do
 
-- **Build AI-powered solutions** for Fortune 500 companies and startups
+- **Cooking @Supernal** - Forward Deployed Engineer, Masons team
 - **Host "Let's Talk AI"** - 90+ episodes of unfiltered conversations with tech builders
-- **Co-found Radiance** - Digital design agency + Creative OS backed by Infinity Constellation
+- **Building AI Native Club** - Helping technical co-founders navigate 50K-2M ARR (sales, product, roadmap, hiring, ...) → [ainativeclub.com](https://ainativeclub.com)
 - **Create real value** with tech, data, and AI - not just demos
 
 ## Socials
 
+[![](https://img.shields.io/static/v1?label&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNlOGE4NDkiIHN0cm9rZS13aWR0aD0iMiI+PHRleHQgeD0iNCIgeT0iMTciIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiNlOGE4NDkiPiZndDtfPC90ZXh0Pjwvc3ZnPg==&message=AI%20Native%20Club&style=for-the-badge&color=black)](https://ainativeclub.com)
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](https://thomasbustos.substack.com/)
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=LinkedIn&style=for-the-badge&color=black)](https://www.linkedin.com/in/thomasbustos/)
 [![](https://img.shields.io/static/v1?label&logo=x&message=X&style=for-the-badge&color=black)](https://x.com/ThoBustos)
@@ -46,7 +47,9 @@
 
 ## Current Focus
 
-**Building Radiance** - A digital design agency powered by The SOURCE®, our proprietary Creative OS that aligns every asset, message, and moment into cohesive, scalable storytelling systems.
+**Supernal** - Forward Deployed Engineer on the Masons team. Building AI-native solutions for enterprise.
+
+**AI Native Club** - Advisory + community for technical co-founders (50K-2M ARR). We build roadmaps, ship product, hire teams, close deals. With AI. → [ainativeclub.com](https://ainativeclub.com)
 
 ## Tech Stack
 
