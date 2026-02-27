@@ -22,7 +22,7 @@
 
 [![](https://img.shields.io/static/v1?label&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNlOGE4NDkiIHN0cm9rZS13aWR0aD0iMiI+PHRleHQgeD0iNCIgeT0iMTciIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiNlOGE4NDkiPiZndDtfPC90ZXh0Pjwvc3ZnPg==&message=AI%20Native%20Club&style=for-the-badge&color=black)](https://ainativeclub.com)
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](https://thomasbustos.substack.com/)
-[<img src="images/linkedin_logo.png" alt="LinkedIn" height="28"/>](https://www.linkedin.com/in/thomasbustos/)
+[![](https://img.shields.io/static/v1?label&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&message=LinkedIn&style=for-the-badge&color=black)](https://www.linkedin.com/in/thomasbustos/)
 [![](https://img.shields.io/static/v1?label&logo=x&message=X&style=for-the-badge&color=black)](https://x.com/ThoBustos)
 [![](https://img.shields.io/static/v1?label&logo=youtube&message=YouTube&style=for-the-badge&color=black)](https://www.youtube.com/@lets-talk-ai)
 [![](https://img.shields.io/static/v1?label&logo=tiktok&message=TikTok&style=for-the-badge&color=black)](https://www.tiktok.com/@lets_talk_ai)
@@ -48,7 +48,7 @@
 
 ## Tech Stack
 
-**Languages:** Python, PySpark, SQL, React, Vue.js, TypeScript  
+**Languages:** Python, PySpark, SQL, React, Vue.js, Next.js, TypeScript  
 **Backend:** FastAPI, Django, Flask  
 **Cloud & Data:** GCP, Azure, AWS, Databricks, Kubernetes, Medallion Architecture  
 **AI & ML:** OPIK, LangGraph, MLOps, LLMOps, Langchain, Crew AI, RAG & Agents, AI Chatbots, Predictive Analytics, MLflow  
