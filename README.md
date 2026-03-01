@@ -27,6 +27,31 @@
 [![](https://img.shields.io/static/v1?label&logo=youtube&message=YouTube&style=for-the-badge&color=black)](https://www.youtube.com/@lets-talk-ai)
 [![](https://img.shields.io/static/v1?label&logo=tiktok&message=TikTok&style=for-the-badge&color=black)](https://www.tiktok.com/@lets_talk_ai)
 
+## My Favorite Open Source Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ThoBustos/openyoko">openyoko</a></h3>
+      <p>Personal Agent OS. My operating system for life, built on Obsidian.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/ThoBustos/ainativeclub">ainativeclub</a></h3>
+      <p>The club for AI-native builders. Landing + member portal.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ThoBustos/reader">reader</a></h3>
+      <p>Custom tool to read and annotate research papers.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/ThoBustos/quizz-mcp">quizz-mcp</a></h3>
+      <p>MCP that quizzes me while deep in tmux + Claude Code.</p>
+    </td>
+  </tr>
+</table>
+
 ## Let's Talk AI Podcast
 
 <table>
