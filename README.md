@@ -2,7 +2,7 @@
 
 [![banner](./images/banner.png)](https://thomasbustos.substack.com/)
 
-**`Cooking @ Supernal | Co-founder & advisor @ Lyah | Let's Talk AI & AI Native Club`**
+**`🧑‍🍳 @Supernal | 2x Co-Founder | Let's Talk AI & AI Native Club`**
 
 <br/>
 
@@ -12,11 +12,11 @@
 
 ## What I do
 
+**Mission:** Build exceptional products with exceptional people. Document everything along the way.
 - **Cooking @ [Supernal](https://getsupernal.ai/)**
 - **Co-founder & advisor @ [Lyah](http://lyah.ai/)**
 - **Host [Let's Talk AI](https://www.youtube.com/@lets-talk-ai/)**
 - **[AI Native Club](https://ainativeclub.com)**
-- **Mission:** Build exceptional products with exceptional people. Document everything along the way.
 
 ## Socials
 
