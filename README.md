@@ -33,24 +33,24 @@
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/ThoBustos/openyoko">openyoko</a></h3>
-      <img src="https://img.shields.io/github/stars/ThoBustos/openyoko?style=flat&color=black" alt="stars"/>
+      <img src="https://img.shields.io/github/stars/ThoBustos/openyoko?style=flat&label=%E2%AD%90&color=black" alt="stars"/>
       <p>Personal Agent OS. My operating system for life, built on Obsidian.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/ThoBustos/ainativeclub">ainativeclub</a></h3>
-      <img src="https://img.shields.io/github/stars/ThoBustos/ainativeclub?style=flat&color=black" alt="stars"/>
+      <img src="https://img.shields.io/github/stars/ThoBustos/ainativeclub?style=flat&label=%E2%AD%90&color=black" alt="stars"/>
       <p>The club for AI-native builders. Landing + member portal.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/ThoBustos/reader">reader</a></h3>
-      <img src="https://img.shields.io/github/stars/ThoBustos/reader?style=flat&color=black" alt="stars"/>
+      <img src="https://img.shields.io/github/stars/ThoBustos/reader?style=flat&label=%E2%AD%90&color=black" alt="stars"/>
       <p>Custom tool to read and annotate research papers.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/ThoBustos/quizz-mcp">quizz-mcp</a></h3>
-      <img src="https://img.shields.io/github/stars/ThoBustos/quizz-mcp?style=flat&color=black" alt="stars"/>
+      <img src="https://img.shields.io/github/stars/ThoBustos/quizz-mcp?style=flat&label=%E2%AD%90&color=black" alt="stars"/>
       <p>MCP that quizzes me while deep in tmux + Claude Code.</p>
     </td>
   </tr>
